@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: newapp
-Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: khushi1
-Implementation-Vendor-Id: com.imlabs.newapp
-Build-Jdk: 1.8.0_25
-Created-By: Maven Integration for Eclipse
-Implementation-Vendor: Pivotal Software, Inc.
-
